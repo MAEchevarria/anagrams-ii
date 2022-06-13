@@ -1,5 +1,3 @@
-# Can you translate this driver code to unit tests?
-
 from anagram2 import anagrams_for 
 
 list_of_words = ["threads", "trashed", "hardest", "hatreds", "hounds"]
